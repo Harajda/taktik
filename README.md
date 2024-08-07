@@ -22,3 +22,5 @@ Registrovanie Usera:
 Prihlásenie / Získanie tokenu:
 ![image](https://github.com/user-attachments/assets/3ad7a5fc-6bd8-439e-b8ef-683f44680a00)
 
+Získaným tokenom sa autorizujem pri každom requeste:
+![image](https://github.com/user-attachments/assets/d047ed16-5d07-4e35-9d5d-be6f9c13d11d)
