@@ -170,11 +170,3 @@
         </div>
     </body>
 </html>
-{{-- 
-
-Spustenie seederov, predtým php artisan migrate
-php artisan db:seed --class=UserSeeder
-php artisan db:seed --class=PostSeeder
-php artisan db:seed --class=CommentSeeder
-
---}}
